@@ -23,7 +23,7 @@
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=EfeKaraer&label=Profile%20views&color=0ea5e9&style=flat-square" alt="Profile views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=EfeKaraer.EfeKaraer&left_text=Profile%20views&left_color=%23555555&right_color=%230ea5e9&radius=0" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/EfeKaraer?style=flat-square&logo=github&label=Followers&color=6366f1" alt="Followers" />
   <img src="https://img.shields.io/github/stars/EfeKaraer?style=flat-square&logo=github&label=Stars&color=f59e0b" alt="Total stars" />
   <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=Public%20Repos&color=22c55e&logo=github&url=https%3A%2F%2Fapi.github.com%2Fusers%2FEfeKaraer&query=%24.public_repos" alt="Public repos" />
